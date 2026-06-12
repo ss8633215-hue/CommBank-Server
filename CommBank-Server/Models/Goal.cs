@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-public string? Icon { get; set; };
+public string? Icon { get; set; }
 
 public class Goal
 {
