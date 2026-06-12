@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace CommBank.Models;
+public string? Icon { get; set; };
 
 public class Goal
 {
